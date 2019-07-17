@@ -14,7 +14,11 @@ Advancement of computer vision algorithms, remote sensing, and geospatial techno
 
 ## Results
 
-[Work in Progress]
+![results-demo](./images/demo-results.jpg)
+
+![legend](./images/legend.png)
+
+TP (True Positive), FP (False Positive), FN (False Negative)
 
 ## Conclusions
 
