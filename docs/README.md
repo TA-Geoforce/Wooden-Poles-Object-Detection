@@ -109,7 +109,7 @@ For the needs of this project every dataset were deployed inside a dedicated S3 
 In the initial stage solution design was described that they’re going to be explored three (3) demo areas in Greece. Each one has different characteristics and results.
 For the needs of this project it was also deployed ultra-high definition satellite images for T.A. Geoforce private satellite vendor in form of Cloud Optimized GeoTIFF (COG).
 
-## 2.2.	Experiments Architecture
+## 2.2. Experiments Architecture
 The cloud architecture, that has been used for the executing experiments, is described in the figure below (Figure 1.)
 
 ![AWS SYSTEM ARCHITECTURE](./../images/image001.jpg)
