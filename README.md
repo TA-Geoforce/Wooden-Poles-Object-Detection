@@ -1,6 +1,6 @@
 # Wooden-Poles-Object-Detection
 
-AI experiments to automate the process of wooden poles identification using earth-observation imagary.
+AI experiments to automate the process of wooden poles identification using earth-observation imagery.
 
 ![wooden-poles](./images/wooden-pole.jpg)
 
